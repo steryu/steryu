@@ -1,4 +1,4 @@
 # steryu
-Hello, im Ster. 
+Hello, i'm Ster :).
 
-Im currently a software engineer studying at Codam in Amsterdam. 
+I'm currently a software engineer studying at Codam in Amsterdam. 
