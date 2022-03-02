@@ -1,5 +1,5 @@
 # steryu
 Hello, i'm Ster :)
 
-I'm currently a software engineer studying at Codam in Amsterdam. 
+I'm currently a software engineer studying at Codam in Amsterdam.\n
 Learning C programming.
